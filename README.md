@@ -1,2 +1,2 @@
-# rest-example
-Rest example
+# movies-example
+Movies example
